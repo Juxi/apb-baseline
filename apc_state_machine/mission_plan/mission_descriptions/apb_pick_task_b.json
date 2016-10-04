@@ -1,0 +1,39 @@
+{
+    "bin_contents": {
+        "bin_A": [
+            "kleenex_paper_towels",
+            "elmers_washable_no_run_school_glue"
+        ],
+        "bin_B": [
+            "platinum_pets_dog_bowl",
+            "i_am_a_bunny_book",
+            "dasani_water_bottle"
+        ],
+        "bin_C": [
+            "cherokee_easy_tee_shirt"
+        ],
+        "bin_D": [
+            "kleenex_tissue_box",
+            "command_hooks"
+        ]
+    },
+    "tote_contents": [],
+    "work_order": [
+        {
+            "bin": "bin_A",
+            "item": "elmers_washable_no_run_school_glue"
+        },
+        {
+            "bin": "bin_B",
+            "item": "platinum_pets_dog_bowl"
+        },
+        {
+            "bin": "bin_C",
+            "item": "cherokee_easy_tee_shirt"
+        },
+        {
+            "bin": "bin_D",
+            "item": "kleenex_tissue_box"
+        }
+    ]
+}

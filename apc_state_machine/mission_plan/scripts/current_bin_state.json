@@ -1,0 +1,20 @@
+{
+    "bin_contents": {
+        "bin_A": [],
+        "bin_B": [
+            "rawlings_baseball"
+        ],
+        "bin_C": [
+            "i_am_a_bunny_book",
+            "laugh_out_loud_joke_book"
+        ],
+        "bin_D": [
+            "kleenex_tissue_box"
+        ],
+        "tote": [
+            "expo_dry_erase_board_eraser",
+            "command_hooks",
+            "elmers_washable_no_run_school_glue"
+        ]
+    }
+}

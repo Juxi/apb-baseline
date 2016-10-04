@@ -1,0 +1,29 @@
+shelf_layout:
+  'bin_A':
+    {'bin_height': 0.351,
+    'bin_width':  0.351}
+  'bin_B':
+    {'bin_height': 0.351,
+    'bin_width':  0.351}
+  'bin_C':
+    {'bin_height': 0.351,
+    'bin_width':  0.351}
+
+  'bin_D':
+    {'bin_height': 0.351,
+    'bin_width':  0.351}
+  'bin_E':
+    {'bin_height': 0.351,
+    'bin_width':  0.351}
+  'bin_F':
+    {'bin_height': 0.351,
+    'bin_width':  0.351}
+
+  'bin_G':
+    {'bin_height': 0.351,
+    'bin_width':  0.351}
+  'bin_H':
+    {'bin_height': 0.351,
+    'bin_width':  0.351}
+
+  'bin_obs_distance': 0.27

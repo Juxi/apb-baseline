@@ -1,0 +1,46 @@
+{
+    "bin_contents": {
+        "bin_A": [
+            "kleenex_paper_towels",
+            "kyjen_squeakin_eggs_plush_puppies",
+            "rawlings_baseball",
+            "womens_knit_gloves"
+        ],
+        "bin_B": [
+            "womens_knit_gloves",
+            "elmers_washable_no_run_school_glue",
+            "elmers_washable_no_run_school_glue"
+        ],
+        "bin_C": [
+            "clorox_utility_brush",
+            "easter_turtle_sippy_cup",
+            "rolodex_jumbo_pencil_cup",
+            "fitness_gear_3lb_dumbbell"
+        ],
+        "bin_D": [
+            "cloud_b_plush_bear",
+            "command_hooks",
+            "command_hooks",
+            "womens_knit_gloves"
+        ]
+    },
+    "tote_contents": [],
+    "work_order": [
+        {
+            "bin": "bin_A",
+            "item": "kyjen_squeakin_eggs_plush_puppies"
+        },
+        {
+            "bin": "bin_B",
+            "item": "womens_knit_gloves"
+        },
+        {
+            "bin": "bin_C",
+            "item": "easter_turtle_sippy_cup"
+        },
+        {
+            "bin": "bin_D",
+            "item": "cloud_b_plush_bear"
+        }
+    ]
+}

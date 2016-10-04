@@ -1,0 +1,38 @@
+{
+    "bin_contents": {
+        "bin_A": [
+            "command_hooks"
+        ],
+        "bin_B": [
+            "expo_dry_erase_board_eraser",
+            "rawlings_baseball"
+        ],
+        "bin_C": [
+            "i_am_a_bunny_book",
+            "laugh_out_loud_joke_book"
+        ],
+        "bin_D": [
+            "kleenex_tissue_box",
+            "elmers_washable_no_run_school_glue"
+        ]
+    },
+    "tote_contents": [],
+    "work_order": [
+        {
+            "bin": "bin_A",
+            "item": "command_hooks"
+        },
+        {
+            "bin": "bin_B",
+            "item": "expo_dry_erase_board_eraser"
+        },
+        {
+            "bin": "bin_C",
+            "item": "laugh_out_loud_joke_book"
+        },
+        {
+            "bin": "bin_D",
+            "item": "elmers_washable_no_run_school_glue"
+        }
+    ]
+}

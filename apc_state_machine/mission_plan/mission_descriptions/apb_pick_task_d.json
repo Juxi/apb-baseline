@@ -1,0 +1,56 @@
+{
+    "bin_contents": {
+        "bin_A": [
+            "scotch_bubble_mailer",
+            "kleenex_tissue_box",
+            "command_hooks",
+            "womens_knit_gloves",
+            "womens_knit_gloves",
+            "expo_dry_erase_board_eraser"
+        ],
+        "bin_B": [
+            "kyjen_squeakin_eggs_plush_puppies",
+            "command_hooks",
+            "laugh_out_loud_joke_book",
+            "jane_eyre_dvd",
+            "i_am_a_bunny_book",
+            "oral_b_toothbrush_red",
+            "oral_b_toothbrush_green",
+            "womens_knit_gloves"
+        ],
+        "bin_C": [
+            "kyjen_squeakin_eggs_plush_puppies",
+            "fiskars_scissors_red",
+            "elmers_washable_no_run_school_glue",
+            "fitness_gear_3lb_dumbbell",
+            "platinum_pets_dog_bowl"
+        ],
+        "bin_D": [
+            "dasani_water_bottle",
+            "clorox_utility_brush",
+            "rolodex_jumbo_pencil_cup",
+            "kleenex_paper_towels",
+            "dove_beauty_bar",
+            "kyjen_squeakin_eggs_plush_puppies"
+        ]
+    },
+    "tote_contents": [],
+    "work_order": [
+        {
+            "bin": "bin_A",
+            "item": "womens_knit_gloves"
+        },
+        {
+            "bin": "bin_B",
+            "item": "oral_b_toothbrush_green"
+        },
+        {
+            "bin": "bin_C",
+            "item": "fiskars_scissors_red"
+        },
+        {
+            "bin": "bin_D",
+            "item": "kyjen_squeakin_eggs_plush_puppies"
+        }
+    ]
+}

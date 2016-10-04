@@ -1,0 +1,68 @@
+{
+    "bin_contents": {
+        "bin_A": [
+            "laugh_out_loud_joke_book"
+        ],
+        "bin_B": [
+            "easter_turtle_sippy_cup"
+        ],
+        "bin_C": [
+            "soft_white_lightbulb",
+            "laugh_out_loud_joke_book"
+        ],
+        "bin_D": [
+            "oral_b_toothbrush_red",
+            "woods_extension_cord",
+            "kleenex_tissue_box"
+        ],
+        "bin_E": [
+            "crayola_24_ct",
+            "staples_index_cards",
+            "i_am_a_bunny_book"
+        ],
+        "bin_F": [
+            "expo_dry_erase_board_eraser"
+        ],
+        "bin_G": [
+            "oral_b_toothbrush_red",
+            "cool_shot_glue_sticks",
+            "expo_dry_erase_board_eraser"
+        ],
+        "bin_L": [
+            "dove_beauty_bar",
+            "clorox_utility_brush"
+        ],
+        "bin_I": [
+            "elmers_washable_no_run_school_glue",
+            "elmers_washable_no_run_school_glue",
+            "rolodex_jumbo_pencil_cup"
+        ],
+        "bin_J": [
+            "up_glucose_bottle"
+        ],
+        "bin_K": [
+            "dove_beauty_bar"
+        ],
+        "bin_H": [
+            "expo_dry_erase_board_eraser"
+        ]
+    },
+    "work_order": [
+        {
+            "bin": "bin_E",
+            "item": "crayola_24_ct"
+        },
+        {
+            "bin": "bin_C",
+            "item": "soft_white_lightbulb"
+        },
+        {
+            "bin": "bin_I",
+            "item": "elmers_washable_no_run_school_glue"
+        },
+        {
+            "bin": "bin_L",
+            "item": "dove_beauty_bar"
+        }
+    ]
+}
